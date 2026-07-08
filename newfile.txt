@@ -1,7 +1,0 @@
-Saksham,98 
-Varun,56 
-Nitin,27 
-Suhesh,22
-Naina,99 
-Manish,88 
-Amit,77
